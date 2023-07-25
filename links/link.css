@@ -1,0 +1,33 @@
+.p1:link{
+color: red;
+background-color: bisque;
+text-decoration: none;
+
+
+
+}
+
+.p1:hover{
+color: coral;
+background-color: blue;
+text-decoration: none;
+
+
+
+
+
+}
+
+.div1{
+color: bisque;
+background-color: aliceblue;
+
+
+}
+
+.div1:hover{
+
+color: brown;
+background-color: cornflowerblue;
+
+}

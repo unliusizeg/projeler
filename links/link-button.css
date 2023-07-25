@@ -1,0 +1,18 @@
+a:link, a:visited {
+color: white;
+background-color: red;
+border-top-style: dotted;
+border-right-style: double;
+border-left-style: solid;
+border-bottom-style: solid;
+border-color: red green blue orchid; /* red top, aquamarine right, blue bottom, orchid left */
+border-width: 5px;
+
+
+}
+a:hover, a:active {
+color: yellow;
+background-color: darkgreen;
+
+
+}
